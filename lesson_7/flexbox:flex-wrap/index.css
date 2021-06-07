@@ -1,0 +1,23 @@
+body {
+    width: 300px;
+    margin: auto;
+  }
+  section {
+    display: flex;
+    padding: 10px;
+  }
+  
+  div {
+    background-color: rgb(145, 2, 0);
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+  }
+
+  #first{
+      flex-wrap: wrap;
+  }
+
+  #second{
+      flex-wrap: wrap-reverse;
+  }

@@ -1,0 +1,32 @@
+tml {
+    margin: 0;
+    padding: 0;
+    background: url("http://bit.ly/kings_college_chapel") no-repeat center fixed;
+    background-size: cover;
+  }
+  img {
+    height: auto;
+    width: 300px;
+    margin: 0 0 0 0;
+    box-sizing: border-box;
+      /* overflow: hidden; */
+  }
+  .message {
+    margin: 20px auto 0 auto;
+    font-family: cursive;
+    font-size: 1.3em;
+    text-align: center;
+  }
+  h1 {
+    margin: 0;
+    -webkit-margin-before: 0;
+    color: rgb(145, 2, 0);
+  }
+  #content-1 a:hover {
+    color: rgb(250, 255, 0);
+    font-weight: 900;
+  }
+  
+  header{
+    box-sizing: border-box;
+  }
