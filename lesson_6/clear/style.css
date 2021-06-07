@@ -1,0 +1,8 @@
+.c-right{
+    clear: right;
+}
+
+.c-left{
+    clear: left;
+    background-color: red;
+}
