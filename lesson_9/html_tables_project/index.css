@@ -1,0 +1,25 @@
+*{
+    font-family: Helvetica; 
+   }
+   
+   h2{
+     text-align: center;
+   }
+   
+   p{
+     line-height: 1.2em;
+   }
+   
+   table,td,th{
+     padding: 5px;
+     border: 2px solid rgb(80, 76, 40);
+     border-collapse: collapse;
+   }
+   table{
+     width: 550px;
+     
+   }
+   th{
+     background-color:green;
+     color: white;
+   }

@@ -1,0 +1,16 @@
+.first :first-child{
+    color: rgb(255, 0, 0);
+}
+
+#diff p{
+    text-decoration: underline;
+
+}
+
+h1,p {
+    font-family: comic sans-serif;
+}
+
+p :first-child i{
+    background-color: yellow;
+}

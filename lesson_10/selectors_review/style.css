@@ -1,0 +1,13 @@
+*{
+    background-color: black;
+    color: white;
+    font-size: 24px;
+  }
+
+p{
+    text-align: center;
+}
+
+#descripion{
+    padding: 15px;
+}
