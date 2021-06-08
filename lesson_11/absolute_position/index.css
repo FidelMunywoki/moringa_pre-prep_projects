@@ -1,0 +1,14 @@
+#parent{
+    background-color: #C8AB83;
+    color: white;
+    padding: 10px;
+    height: 300px;
+  }
+
+  .absolute{
+    position: absolute;
+    right: 0;
+    border: 3px solid #abba00;
+    background-color: white;
+    color: black;
+ }
