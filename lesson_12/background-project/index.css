@@ -1,0 +1,31 @@
+body{
+    background-color:grey;
+
+}
+
+#first{
+    height: 300px;
+    width: 300px;
+    border: 2px solid white;
+    background-image: url(https://images.pexels.com/photos/210471/pexels-photo-210471.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb);
+    background-size: contain;
+}
+
+#second{
+    height: 300px;
+    width: 300px;
+    border: 2px dashed red;
+    background-image: url(https://images.pexels.com/photos/261985/pexels-photo-261985.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb);
+    background-size: cover;
+    background-position: center center;
+}
+
+#third{
+    height: 300px;
+    width: 300px;
+    background-image: url(https://images.pexels.com/photos/46522/lion-predator-big-cat-safari-46522.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb);
+    background-size: 240px 240px;
+    background-position: center center;
+
+
+}

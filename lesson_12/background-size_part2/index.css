@@ -1,0 +1,9 @@
+.image{
+    height: 200px;
+    width: 300px;
+    padding: 15px;
+    border: 3px dashed line;
+    background-image: url(https://user-images.githubusercontent.com/42610692/120894536-96bb2680-c621-11eb-8489-9d676c59163c.jpg);
+    background-size: contain;
+
+}

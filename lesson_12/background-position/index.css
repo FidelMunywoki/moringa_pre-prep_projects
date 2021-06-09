@@ -1,0 +1,7 @@
+.position{
+    height: 200px;
+    width: 300px;
+    background-image: url(https://image.freepik.com/free-vector/soft-background-with-a-cute-blue-watercolor-stain_1048-5169.jpg);
+    background-size: 50px 50px;
+    background-position: right bottom;
+}
