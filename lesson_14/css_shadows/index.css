@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+  }
+  
+  div{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+  }
+
+  .shadow{
+    padding: 10px;
+    font-size: 24px;
+    text-shadow: 2px 2px 5px blue;
+ }
+
+ #shadow{
+     text-shadow: 2px 2px 0px yellow;
+     font-size: 24px;
+     padding: 5px;
+ }
