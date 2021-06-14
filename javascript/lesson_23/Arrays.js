@@ -8,3 +8,10 @@ var bucketList = ["Morocco", "Cuba", "Kenya", "Tanzania",
 
 console.log(bucketList[1]);
 console.log(bucketList[4])
+
+bucketList[2] = "Zambia";
+bucketList.push = "Canada"
+console.log(bucketList)
+console.log(bucketList)
+
+console.log(bucketList.length);
