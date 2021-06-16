@@ -9,3 +9,6 @@ var animals = birds;
 animal = animals.concat(amphibians, reptiles, mammals);
 console.log(animal);
 
+
+var x = mammals.join();
+console.log(x);
