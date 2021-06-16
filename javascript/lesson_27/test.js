@@ -1,9 +1,17 @@
-var sum= function(a, b){
-    return a+b;
-}
+const coder = {
+    isStudying : false,
+    printIntroduction : function(){
+        console.log(`My name is ${this.name}. Am I studying?: ${this.isStudying}`);
+    }
+};
 
-i=0;
+//creaing a new object
+const me = Object.create(coder);
+me.name = 'Mukul';
+me.isStudying = true;
+me.printIntroduction();
 
-while(i<10){
-    console.log(sum(3,4))
-}
+
+me.name = 'Mukul Mukurungezi';
+me.isStudying = true;
+me.printIntroduction();
